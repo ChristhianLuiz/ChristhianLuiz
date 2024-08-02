@@ -2,8 +2,6 @@
 
 <h1 align="left">About Me</h1>
 
-<h1 align="left">About Me</h1>
-
 ###
 
 <p align="left">- Student Front-End<br>- Junior Developer</p>
