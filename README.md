@@ -2,6 +2,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="left">
+  <img height="150" src="https://i.pinimg.com/control/1200x/04/a3/81/04a3817e9ee93cd1e90f35543b7edb09.jpg"  />
+</div>
+
+###
+
 <p align="left">- Student Front-End<br>- Junior Developer</p>
 
 ###
@@ -54,7 +62,7 @@
   <a href="https://www.instagram.com/blckkz_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/CLuizz7" target="_blank">
+  <a href="https://x.com/Luizz7_Dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
